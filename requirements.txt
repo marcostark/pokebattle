@@ -1,0 +1,6 @@
+python-decouple
+django-import-export
+django-naomi
+django-debug-toolbar
+django-model-utils
+django-debug-toolbar-request-history
